@@ -1,0 +1,49 @@
+body{
+	
+	background-image: url("Background.png");
+	color: DodgerBlue;
+	
+}
+
+
+#allContent{
+	
+	border: 5px solid green;
+	margin: 1% 10%;	
+	background-color: white;
+}
+
+#header{
+	
+	border: 5px solid red;
+	text-align: right;
+	
+}
+
+#subtitle{
+	
+	border: 5px solid orange;
+	margin: 3px;
+}
+
+.section{
+	
+	border: 5px solid blue;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+img {
+  float: right;
+  margin: 0px 10px 10px 15px;
+}
+
+.date{
+	
+	border: 5px solid purple;
+	margin: 2px;
+}
